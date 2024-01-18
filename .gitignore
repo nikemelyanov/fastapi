@@ -1,0 +1,5 @@
+venv/
+data/
+app/database.py
+.env
+docker-compose.yaml
